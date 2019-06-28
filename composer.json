@@ -1,6 +1,6 @@
 {
     "name": "ziya/latest-update",
-    "description": "Widget for getting latest update.",
+    "description": "Yii2 widget for getting latest update.",
     "type": "library",
     "require": {
         "yiisoft/yii2": "~2.0"
