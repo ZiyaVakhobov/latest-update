@@ -1,0 +1,13 @@
+{
+    "name": "ziya/latest-update",
+    "description": "Widget for getting latest update.",
+    "type": "library",
+    "require": {
+        "yiisoft/yii2": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ziya\\LatestUpdate\\": "src"
+        }
+    }
+}
